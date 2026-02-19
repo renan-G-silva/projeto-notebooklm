@@ -16,4 +16,3 @@ Apos escolha do tema, foi procura material que agregacomo videos, reportagem, da
 
 a partir dai, fiz perguntas coerentes, para ver se a respostas é veridica e ele mostra para que serve.
 
-A experiência foi muito bacana, mostra como se tivesse feito uma IA do zero aonde mostro os beneficiosdo tema especifico dela para quem eu compartilhar, basta alimentar, com conhecimetnos externos como link e dados aonde ela trara informação importante sempre da uma conferida nos assuntos para não ser enganosa ou criada.
